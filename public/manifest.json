@@ -1,0 +1,24 @@
+{
+  "name": "Jotta Araújo Produções",
+  "short_name": "Jotta Araújo",
+  "description": "Rádio online e divulgação comercial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f7135",
+  "theme_color": "#1f7135",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/hostinger-horizons-assets-prod/89151b43-7cf4-4a65-a320-952944b92cd7/391d0950ea6bc97f76ed863d62bc4271.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://storage.googleapis.com/hostinger-horizons-assets-prod/89151b43-7cf4-4a65-a320-952944b92cd7/391d0950ea6bc97f76ed863d62bc4271.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
